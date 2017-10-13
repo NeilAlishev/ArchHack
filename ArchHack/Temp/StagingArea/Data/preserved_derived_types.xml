@@ -1,0 +1,53 @@
+<linker>
+<assembly fullname="Assembly-CSharp">
+<type fullname="DefaultInitializationErrorHandler" preserve="all"/>
+<type fullname="DefaultSmartTerrainEventHandler" preserve="all"/>
+<type fullname="DefaultTrackableEventHandler" preserve="all"/>
+</assembly>
+<assembly fullname="Vuforia.UnityExtensions">
+<type fullname="DefaultInitializationErrorHandlerInternal" preserve="all"/>
+<type fullname="DefaultInitializationErrorHandlerPlaceHolder" preserve="all"/>
+<type fullname="DefaultSmartTerrainEventHandlerPlaceHolder" preserve="all"/>
+<type fullname="DefaultTrackableBehaviourPlaceholder" preserve="all"/>
+<type fullname="Vuforia.PlatformRuntimeInitialization" preserve="all"/>
+<type fullname="Vuforia.DigitalEyewearARController" preserve="all"/>
+<type fullname="Vuforia.GLErrorHandler" preserve="all"/>
+<type fullname="Vuforia.MaskOutBehaviour" preserve="all"/>
+<type fullname="Vuforia.DeviceTrackerARController" preserve="all"/>
+<type fullname="Vuforia.TurnOffBehaviour" preserve="all"/>
+<type fullname="Vuforia.TurnOffWordBehaviour" preserve="all"/>
+<type fullname="Vuforia.BackgroundPlaneBehaviour" preserve="all"/>
+<type fullname="Vuforia.ObjectTargetBehaviour" preserve="all"/>
+<type fullname="Vuforia.CloudRecoBehaviour" preserve="all"/>
+<type fullname="Vuforia.VuforiaBehaviour" preserve="all"/>
+<type fullname="Vuforia.VuforiaConfiguration" preserve="all"/>
+<type fullname="Vuforia.VuforiaDeinitBehaviour" preserve="all"/>
+<type fullname="Vuforia.VuforiaRuntime" preserve="all"/>
+<type fullname="Vuforia.VuMarkBehaviour" preserve="all"/>
+<type fullname="Vuforia.ReconstructionFromTargetBehaviour" preserve="all"/>
+<type fullname="Vuforia.SmartTerrainTrackableBehaviour" preserve="all"/>
+<type fullname="Vuforia.SmartTerrainTrackerARController" preserve="all"/>
+<type fullname="Vuforia.SurfaceBehaviour" preserve="all"/>
+<type fullname="Vuforia.CylinderTargetBehaviour" preserve="all"/>
+<type fullname="Vuforia.DatabaseLoadARController" preserve="all"/>
+<type fullname="Vuforia.DataSetTrackableBehaviour" preserve="all"/>
+<type fullname="Vuforia.ReconstructionBehaviour" preserve="all"/>
+<type fullname="Vuforia.PropBehaviour" preserve="all"/>
+<type fullname="Vuforia.ImageTargetBehaviour" preserve="all"/>
+<type fullname="Vuforia.MultiTargetBehaviour" preserve="all"/>
+<type fullname="Vuforia.VuforiaARController" preserve="all"/>
+<type fullname="Vuforia.TextRecoBehaviour" preserve="all"/>
+<type fullname="Vuforia.TrackableBehaviour" preserve="all"/>
+<type fullname="Vuforia.UserDefinedTargetBuildingBehaviour" preserve="all"/>
+<type fullname="Vuforia.VideoBackgroundBehaviour" preserve="all"/>
+<type fullname="Vuforia.VideoBackgroundManager" preserve="all"/>
+<type fullname="Vuforia.VirtualButtonBehaviour" preserve="all"/>
+<type fullname="Vuforia.WebCamARController" preserve="all"/>
+<type fullname="Vuforia.WordBehaviour" preserve="all"/>
+<type fullname="Vuforia.WireframeBehaviour" preserve="all"/>
+<type fullname="Vuforia.WireframeTrackableEventHandler" preserve="all"/>
+</assembly>
+<assembly fullname="UnityEngine.Analytics">
+<type fullname="UnityEngine.Analytics.AnalyticsTracker" preserve="all"/>
+</assembly>
+</linker>
